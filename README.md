@@ -1,6 +1,6 @@
 # Responsive Bootstrap Login / Registration Form
 
-!(https://i.imgur.com/H9GNzly.png)
+![alt text](https://i.imgur.com/H9GNzly.png "Lgin/Registration Form app")
 
 ## Technology Used
 * Bootstrap 4
